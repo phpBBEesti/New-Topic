@@ -1,5 +1,6 @@
 <?php
 /**
+* Estonian translation by phpBBestonia.eu <https://www.phpbbestonia.eu>
 *
 * @package phpBB Extension - New Topic
 * @copyright (c) 2015 dmzx - http://www.dmzx-web.net
@@ -37,5 +38,5 @@ if (empty($lang) || !is_array($lang))
 //
 
 $lang = array_merge($lang, array(
-	'NEW_TOPIC_SELECT'	=> 'Create New Topic',
+	'NEW_TOPIC_SELECT'	=> 'Loo uus teema',
 ));
